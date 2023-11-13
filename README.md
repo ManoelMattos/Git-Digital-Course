@@ -5,3 +5,4 @@
 ### Seguindo nos Comandos do Git.
 * Comando Git Push. 
 * Comando Git Pull.
+* Comando Git Fetch.
